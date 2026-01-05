@@ -1,0 +1,3 @@
+https://wiki.purduesigbots.com/software/control-algorithms/basic-pure-pursuit#moving-toward-target-point-part-2 - PPC
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7412167/ - Velocity Profiler
+
