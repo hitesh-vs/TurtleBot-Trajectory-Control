@@ -11,3 +11,6 @@ Makefile
 
 # Optional: test artifacts
 Testing/
+
+# Virtual Env
+new_env/
