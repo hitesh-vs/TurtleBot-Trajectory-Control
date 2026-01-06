@@ -7,7 +7,7 @@
     Subscribes to /odom and publishes /cmd_vel.
   </description>
 
-  <maintainer email="you@example.com">Hitesh</maintainer>
+  <maintainer email="vshitesh17@gmail.com">Hitesh</maintainer>
   <license>Apache-2.0</license>
 
   <!-- Build system -->
