@@ -23,7 +23,7 @@ public:
   : Node("pure_pursuit_controller"), current_index_(0)
   {
     declare_parameter<std::string>("csv_path", "waypoints_time.csv");
-    declare_parameter<double>("lookahead_distance", 1.0);
+    declare_parameter<double>("lookahead_distance", 0.5);
     declare_parameter<double>("max_angular_velocity", 1.5);
     declare_parameter<double>("goal_tolerance", 0.3);
 
