@@ -2,6 +2,8 @@
 
 This project implements **path smoothing**, **trajectory generation**, and **trajectory tracking control** for a differential drive robot using **ROS 2** and **Gazebo**.
 
+The demonstration videos for the trajectories of Square and the Long path with a turn are present in this drive [link](https://drive.google.com/drive/folders/1aRFNu87XYgfjoX9KelHYitZ3XR40uxP0?usp=drive_link). 
+
 ![Differential Drive Robot](images/DiffDriveRobot.png)
 ![Trajectory Tracking Result](images/Tracking_Performance_Loop2.png)
 
