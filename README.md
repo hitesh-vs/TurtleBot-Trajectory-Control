@@ -2,6 +2,10 @@
 
 This project implements **path smoothing**, **trajectory generation**, and **trajectory tracking control** for a differential drive robot using **ROS 2** and **Gazebo**.
 
+![Differential Drive Robot](images/DiffDriveRobot.png)
+![Trajectory Tracking Result](images/Tracking_Performance_Loop2.png)
+
+
 ## Features
 
 - Waypoint-based path input (CSV)
